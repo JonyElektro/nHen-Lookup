@@ -1,0 +1,17 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+   "manifest_version": 3,
+   "name": "nHen Lookup",
+   "description": "Search 6-digit codes or titles on 'that nh page'.",
+   "background": {
+      "service_worker": "background.js"
+   },
+   "icons": {
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png"
+   },
+   "permissions": [ "contextMenus", "activeTab" ],
+   "version": "1.0.0"
+}
