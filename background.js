@@ -2,7 +2,7 @@
     I took the inspiration (and source files) from this extension, made years ago:
     https://chromewebstore.google.com/detail/saucenao-fetcher/eencngjcaepgaaokekpnnabkecpfnchb
 
-    It's going to be deprecated in a few weeks because of Manifest V3 already out, 
+    It's going to be deprecated in a few weeks because Manifest V3 is already out, 
     so i might upgrade that one too (if allowed to do so)
 */
 
